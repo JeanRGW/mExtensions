@@ -1,1 +1,19 @@
 
+[
+  {
+    "name": "Extension1",
+    "version": "1.0",
+    "url": "https://example.com/extension1",
+    "author": "John Doe",
+    "lang": ["pt", "en"],
+    "fileName": "extension1.js"
+  },
+  {
+    "name": "Extension2",
+    "version": "2.1",
+    "url": "https://example.com/extension2",
+    "author": "Jane Smith",
+    "lang": ["en"],
+    "fileName": "extension2.js"
+  }
+]
