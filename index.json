@@ -1,12 +1,12 @@
 
 [
   {
-    "name": "Extension1",
+    "name": "Tsundoku Traduções",
     "version": "1.0",
-    "url": "https://example.com/extension1",
-    "author": "John Doe",
-    "lang": "en",
-    "fileName": "extension1.js"
+    "url": "https://tsundoku.com.br/",
+    "author": "JeanRGW",
+    "lang": "pt",
+    "fileName": "tsundoku.js"
   },
   {
     "name": "Extension2",
